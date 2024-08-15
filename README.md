@@ -1,5 +1,4 @@
 
-# AnemoVision
 
 O AnemoVision é um sistema que visa automatizar a organização e filtragem de fotos de atendimentos em usinas eólicas, facilitando a busca por imagens específicas para a criação de relatórios e melhorando a eficiência operacional.
 
