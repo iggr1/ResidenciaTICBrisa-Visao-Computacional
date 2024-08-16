@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Data/Imagens/Logo.png" alt="Logo do AnemoVision" width="300"/>
+  <img src="data/imagens/Logo.png" alt="Logo do AnemoVision" width="300"/>
 </div>
 
 # AnemoVision
