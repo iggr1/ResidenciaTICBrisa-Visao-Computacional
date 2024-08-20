@@ -35,21 +35,21 @@ Com o AnemoVision, a MKS pode agora gerenciar de forma eficiente seu acervo de i
     <tr>
         <td align="center">
             <a href="https://github.com/danielfklein">
-                <img src="https://avatars.githubusercontent.com/u/116524492?s=400&v=4" width="150px;" alt="Daniel Klein"/>
+                <img src="" width="150px;" alt="Daniel Klein"/>
                 <br />
                 <sub><b>DANIEL FELIPE KLEIN</b></sub>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/iggr1">
-                <img src="https://avatars.githubusercontent.com/u/116524492?s=400&v=4" width="150px;" alt="Igor Gabriel Camara"/>
+                <img src="" width="150px;" alt="Igor Gabriel Camara"/>
                 <br />
                 <sub><b>IGOR GABRIEL CAMARA</b></sub>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/Ohanacam">
-                <img src="https://avatars.githubusercontent.com/u/116524492?s=400&v=4" width="150px;" alt="Ohana Camargo dos Santos"/>
+                <img src="https://avatars.githubusercontent.com/u/116524492?v=4" width="150px;" alt="Ohana Camargo dos Santos"/>
                 <br />
                 <sub><b>OHANA CAMARGO DOS SANTOS</b></sub>
             </a>
