@@ -1,0 +1,21 @@
+2024-08-20 19:31:43,352 - images_processing - INFO - Pastas encontradas para processamento: {'/root/Anemovision/upload'}
+2024-08-20 19:31:43,352 - images_processing - DEBUG - Iniciando backup de: /root/Anemovision/upload
+2024-08-20 19:31:43,352 - images_processing - DEBUG - Imagens encontradas em /root/Anemovision/upload
+2024-08-20 19:31:43,353 - images_processing - DEBUG - Backup já existe: /root/Anemovision/backup/2024-08-20_19-31-43
+2024-08-20 19:31:43,353 - images_processing - DEBUG - Processando imagens de: /root/Anemovision/upload
+2024-08-20 19:33:29,642 - images_processing - INFO - Processamento de imagens finalizado em: /root/Anemovision/upload
+2024-08-20 19:33:29,645 - images_processing - INFO - Pasta removida: /root/Anemovision/upload
+2024-08-20 19:38:38,639 - images_processing - INFO - Pastas encontradas para processamento: {'/root/Anemovision/upload'}
+2024-08-20 19:38:38,639 - images_processing - DEBUG - Iniciando backup de: /root/Anemovision/upload
+2024-08-20 19:38:38,639 - images_processing - DEBUG - Imagens encontradas em /root/Anemovision/upload
+2024-08-20 19:38:44,302 - images_processing - INFO - Backup criado: /root/Anemovision/backup/2024-08-20_19-38-38
+2024-08-20 19:38:44,302 - images_processing - DEBUG - Processando imagens de: /root/Anemovision/upload
+2024-08-20 19:40:27,949 - images_processing - INFO - Processamento de imagens finalizado em: /root/Anemovision/upload
+2024-08-20 19:40:27,952 - images_processing - INFO - Pasta removida: /root/Anemovision/upload
+2024-08-20 19:59:00,056 - images_processing - INFO - Pastas encontradas para processamento: {'/root/Anemovision/upload'}
+2024-08-20 19:59:00,056 - images_processing - DEBUG - Iniciando backup de: /root/Anemovision/upload
+2024-08-20 19:59:00,056 - images_processing - DEBUG - Imagens encontradas em /root/Anemovision/upload
+2024-08-20 19:59:06,766 - images_processing - INFO - Backup criado: /root/Anemovision/backup/2024-08-20_19-59-00
+2024-08-20 19:59:06,766 - images_processing - DEBUG - Processando imagens de: /root/Anemovision/upload
+2024-08-20 19:59:27,933 - images_processing - INFO - Processamento de imagens finalizado em: /root/Anemovision/upload
+2024-08-20 19:59:27,934 - images_processing - INFO - Pasta removida: /root/Anemovision/upload
