@@ -49,7 +49,7 @@ Com o AnemoVision, a MKS pode agora gerenciar de forma eficiente seu acervo de i
         </td>
         <td align="center">
             <a href="https://github.com/Ohanacam">
-                <img src="https://avatars.githubusercontent.com/u/116524492?v=4" width="150px;" alt="Ohana Camargo dos Santos"/>
+                <img src="https://avatars.githubusercontent.com/u/116524492?s=400&v=4" width="150px;" alt="Ohana Camargo dos Santos"/>
                 <br />
                 <sub><b>OHANA CAMARGO DOS SANTOS</b></sub>
             </a>
