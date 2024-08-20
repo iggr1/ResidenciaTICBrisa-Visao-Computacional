@@ -28,3 +28,31 @@ O projeto AnemoVision surgiu da necessidade da MKS Messtechnik Service a empresa
 Para resolver esse problema, nossa equipe desenvolveu o AnemoVision, um sistema avançado que utiliza técnicas de visão computacional e OCR (Reconhecimento Óptico de Caracteres) para automatizar a classificação e organização das fotos. O sistema é capaz de identificar e categorizar imagens com base em características como o tipo de equipamento presente, a localização geográfica e a data e hora do atendimento e armazenando essas informações de forma estruturada e acessível.
 
 Com o AnemoVision, a MKS pode agora gerenciar de forma eficiente seu acervo de imagens, melhorando a produtividade e a precisão na criação de relatórios. A solução não só automatiza tarefas repetitivas, mas também garante uma maior qualidade e consistência nos dados coletados, permitindo que os colaboradores se concentrem em atividades mais estratégicas.
+
+## 💻 Desenvolvedores
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/danielfklein">
+                <img src="https://avatars.githubusercontent.com/u/116524492?s=400&v=4" width="150px;" alt="Daniel Klein"/>
+                <br />
+                <sub><b>DANIEL FELIPE KLEIN</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/iggr1">
+                <img src="https://avatars.githubusercontent.com/u/116524492?s=400&v=4" width="150px;" alt="Igor Gabriel Camara"/>
+                <br />
+                <sub><b>IGOR GABRIEL CAMARA</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Ohanacam">
+                <img src="https://avatars.githubusercontent.com/u/116524492?v=4" width="150px;" alt="Ohana Camargo dos Santos"/>
+                <br />
+                <sub><b>OHANA CAMARGO DOS SANTOS</b></sub>
+            </a>
+        </td>
+    </tr>
+</table>
