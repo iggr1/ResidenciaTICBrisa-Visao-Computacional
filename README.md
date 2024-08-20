@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="data/imagens/Logo.png" alt="Logo do AnemoVision" width="300"/>
-</div>
-
 # AnemoVision
 O AnemoVision é um sistema que visa automatizar a organização e filtragem de fotos de atendimentos em usinas eólicas, facilitando a busca por imagens específicas para a criação de relatórios e melhorando a eficiência operacional.
 
@@ -32,5 +28,3 @@ O projeto AnemoVision surgiu da necessidade da MKS Messtechnik Service a empresa
 Para resolver esse problema, nossa equipe desenvolveu o AnemoVision, um sistema avançado que utiliza técnicas de visão computacional e OCR (Reconhecimento Óptico de Caracteres) para automatizar a classificação e organização das fotos. O sistema é capaz de identificar e categorizar imagens com base em características como o tipo de equipamento presente, a localização geográfica e a data e hora do atendimento e armazenando essas informações de forma estruturada e acessível.
 
 Com o AnemoVision, a MKS pode agora gerenciar de forma eficiente seu acervo de imagens, melhorando a produtividade e a precisão na criação de relatórios. A solução não só automatiza tarefas repetitivas, mas também garante uma maior qualidade e consistência nos dados coletados, permitindo que os colaboradores se concentrem em atividades mais estratégicas.
-
-
