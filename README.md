@@ -4,10 +4,11 @@ O AnemoVision é um sistema que visa automatizar a organização e filtragem de 
 
 <div align="center">
 
-![badge](https://img.shields.io/badge/-python-88CE02?logo=python&logoColor=white&style=for-the-badge)
-![badge](https://img.shields.io/badge/-javascript-88CE02?logo=javascript&logoColor=white&style=for-the-badge)
-![badge](https://img.shields.io/badge/-keras-88CE02?logo=keras&logoColor=white&style=for-the-badge)
-![badge](https://img.shields.io/badge/-tensorflow-88CE02?logo=tensorflow&logoColor=white&style=for-the-badge)
+![badge](https://img.shields.io/badge/-YOLO-88CE02?logo=yolo&logoColor=white&style=for-the-badge)
+![badge](https://img.shields.io/badge/-Python-88CE02?logo=python&logoColor=white&style=for-the-badge)
+![badge](https://img.shields.io/badge/-OpenCV-88CE02?logo=opencv&logoColor=white&style=for-the-badge)
+![badge](https://img.shields.io/badge/-Pillow-88CE02?logo=pillow&logoColor=white&style=for-the-badge)
+![badge](https://img.shields.io/badge/-EasyOCR-88CE02?logo=easyocr&logoColor=white&style=for-the-badge)
 
 ![status](https://img.shields.io/badge/status-em_desenvolvimento-88CE02?style=for-the-badge)
 
